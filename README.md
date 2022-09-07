@@ -27,7 +27,7 @@ Kaypro II CP/M Ladder Clone for *nix
 
 
 
-Retrieved from: [archive.org](https://web.archive.org/web/20081212183611/http://www.srv.net:80/~kth/ladder.tar)
+Sourcecode retrieved from: [archive.org](https://web.archive.org/web/20081212183611/http://www.srv.net:80/~kth/ladder.tar)
 
 
 ### License
