@@ -1,5 +1,5 @@
 # ladder
-Kaypro II Ladder Clone for *nix
+Kaypro II CP/M Ladder Clone for *nix
 
 ```
            LL                     dd       dd
