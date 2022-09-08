@@ -39,5 +39,6 @@ Sadly none was given in the archive, Github's rules apply: [GitHub's licensing d
 [Ladder in Java](http://ostermiller.org/ladder/)<br>
 [Ladder in golang](https://github.com/SmallRoomLabs/ladder)<br>
 [Ladder in pascal](https://github.com/mecparts/Ladder)<br>
+[Ladder in assembly for AmigaOS](http://aminet.net/package/game/jump/Ladder)<br>
 
 
