@@ -30,10 +30,16 @@ Kaypro II CP/M Ladder Clone for *nix
 Sourcecode retrieved from: [archive.org](https://web.archive.org/web/20081212183611/http://www.srv.net:80/~kth/ladder.tar)
 
 
-### License
+## License
 
 Sadly none was given in the archive, Github's rules apply:
 
 [GitHub's licensing documentation](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
+
+## Links
+[Original Ladder game](http://cpmarchives.classiccmp.org/cpm/Software/WalnutCD/lambda/soundpot/f/ladder13.lbr)<br>
+[Ladder in Java](http://ostermiller.org/ladder/)<br>
+[Ladder in golang](https://github.com/SmallRoomLabs/ladder)<br>
+[Ladder in pascal](https://github.com/mecparts/Ladder)<br>
 
 
